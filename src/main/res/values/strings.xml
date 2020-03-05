@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">Versiones</string>
+
+    <string name="descripcionBeta">Esto comienza a resultar familiar. Android 0.9 Beta fue la última versión de pruebas antes de que el sistema operativo viese la luz públicamente, y fue la versión que introdujo algunos
+        de los añadidos característicos del la que, solo 10 años más tarde, sería la plataforma móvil más usada en el planeta.
+        La interfaz al completo había sido rediseñada completamente con respecto a lo que vimos en Milestone 5, dando paso a una apariencia más colorida, con una pantalla de inicio paginada que permitía añadir widgets
+        nativos, un mayor número de aplicaciones, y por fin, un cajón de aplicaciones deslizable desde la parte inferior.
+        El panel de notificaciones también sufrió cambios, preparándose así para su debut en la versión final. Por primera vez, se introdujo la opción de eliminar todos los avisos, y los iconos de la barra de estado fueron
+        modificados para una lectura más clara.
+        Prácticamente todas las aplicaciones del sistema fueron rediseñadas, incluyendo el dialer, la app de contactos, la alarma o el navegador. Además, Android 0.9 Beta fue la primera versión del sistema en la que Google
+        Maps comenzaba a funcionar, preparándose así para dar el salto, por primera vez, a un hardware de verdad.
+    </string>
+
+    <string name="descripcionApplePie">Llega octubre de 2008, y llega el día en el que Android por fin se sitúa en el punto de madurez que le permite dar el salto a un hardware real, orientado al público de a pie, gracias
+        al primer teléfono en salir al mercado con Android en su interior: el HTC Dream o Google G1.
+        Android 1.0 fue la primera versión del sistema en acogerse a los nombres de dulces ordenados alfabéticamente que nos han acompañado durante los últimos diez años. Google decidió bautizar a esta primera edición
+        como Apple Pie, Tarta de Manzana, y los motivos por los que los de Mountain View optaron por usar estos títulos aún siguen siendo un misterio.
+        En Apple Pie, se introdujo por primera vez la suite de aplicaciones de Google, comúnmente conocida como GApps. Entre ellas, además, se encontraba una herramienta que se convertiría en la pieza clave del desarrollo
+        de Android, y su consolidación como sistema operativo: Android Market, una tienda que, si bien en un principio comenzó siendo exclusiva de aplicaciones y juegos –y donde los desarrolladores ni siquiera podían cobrar
+        por sus creaciones–, el plan de Google era hacer de ella una plataforma repleta de contenido más allá de aplicaciones.
+        Junto a la app de la tienda, encontrábamos otras típicas como Calendar, Gmail, Ajustes, y una versión muy temprana de YouTube. Además, por primera vez se incluyeron opciones de seguridad para la pantalla de inicio,
+        entre ellas el patrón de desbloqueo tan característico de la plataforma móvil de Google, y aparecieron pequeños detalles a nivel de interfaz como el aviso por batería baja a partir del 15%.
+    </string>
+
+    <string name="descripcionBanana">Android 1.1 está considerada la primera actualización incremental del sistema operativo, dado que llegaba para solucionar la mayoría de errores descubiertos en Android 1 Aún así, Google
+        la bautizó con un nuevo nombre, y entre sus novedades destaca el añadido de la búsqueda por voz gracias a Google Voice Search, cuyo funcionamiento consistía en comandos de voz que posteriormente se traducirían en
+        búsquedas en el buscador.
+        Por otro lado, Google introdujo por primera vez el soporte para aplicaciones y juegos de pago en la tienda de apps, convirtiendo así el Market en una vía de obtención de ingresos para los desarrolladores.
+        Además, apareció un servicio bajo el nombre Google Latitude, que permitía a los usuarios compartir su ubicación con el resto del mundo. Más pronto que tarde, esta plataforma desapareció para integrarse, más
+        adelante, en la red social Google+.
+    </string>
+
+    <string name="descripcionCupcake">Aterrizamos de lleno en pleno año 2009, y ahí estaba Cupcake para darnos la bienvenida. Android 1.5, a pesar de no ser la primera versión bautizada con un nombre de dulce,
+        sí fue la primera con un nombre comercial publicitado por la propia Google.
+        El añadido más importante de esta versión, fue un componente del sistema sin el que, probablemente, a día de hoy no podríamos vivir: el teclado virtual. Gracias a esta herramienta, los fabricantes que
+        tenían entre sus planes la creación de smartphones con Android, no tendrían que seguir obligatoriamente la tendencia de crear dispositivos con decenas de botones físicos y teclado QWERTY completo.
+        El panel de notificaciones también fue rediseñado –como en prácticamente todas las versiones de Android– , recibiendo un fondo que mostraba una nueva textura, y tarjetas de notificaciones mostrando una
+        apariencia más limpia y suave.
+        Por otro lado, los desarrolladores de terceros recibieron la posibilidad de crear sus propios widgets para la pantalla de inicio y ofrecer su descarga a través del Android Market. A modo de curiosidad,
+        además, conviene comentar que, en Android 1.5, se introdujo una funcionalidad que más adelante desapareció, denominada Live Folders, que consistía en iconos en la pantalla de inicio, en los que, al pulsar
+        sobre ellos, mostrarían información en tiempo real sobre la aplicación en cuestión, como avisos o notificaciones, y sin necesidad de abrir la propia app. ¿Os suena de algo?
+        Otro de los añadidos que demostraban la falta de madurez del sistema en pleno 2009, fue la capacidad de grabar vídeo con la cámara del móvil. Antes de Android 1.5, el sistema operativo no ofrecía la
+        posibilidad de grabar vídeo desde la aplicación nativa. Aplicación que, por otra parte, solo contaba con las opciones de hacer fotos y grabar vídeo, nada más.
+        Entre otras novedades de esta versión, también encontrábamos una nueva barra para hacer zoom en páginas web, imágenes y mapas, la posibilidad de copiar o pegar texto en el navegador nativo. Algunas apps
+        también recibieron nuevas funciones, como YouTube, que a partir de ahora permitiría subir vídeos desde el móvil. Todas estas mejoras hicieron posible la existencia del segundo smartphone Android de la historia,
+        el HTC Magic, que a su vez sería uno de los primeros en recibir la próxima actualización.
+    </string>
+
+    <string name="descripcionDonut">Los meses continúan avanzando, y Google sigue liberando nuevas versiones del sistema a buen ritmo. Llegamos a septiembre de 2009, y toca dar el salto a Android 1.6, y con ella, la
+        letra D, de Donut.
+        Android Donut fue la primera versión del sistema operativo en incluir soporte para diferentes tamaños de pantalla, sentando así los cimientos del que más tarde se convertiría en el slogan de Android: Be together,
+        not the same. Y es que de este modo, los fabricantes vieron cómo se abría una veda a la creación de teléfonos de diferentes tipos.
+        Por otro lado, muchas de las mejoras que trajo Android 1.6 estaban centradas en aplicaciones del sistema, dado que Android no era un sistema tan modular como lo es ahora, y Google no podía actualizar aplicaciones
+        como YouTube o el propio Android Market de otro modo que no fuese a través de una actualización completa del sistema.
+        Pero esas no fueron las únicas novedades. Por primera vez en el sistema, se introdujo soporte para redes CDMA, y el Android Market sufrió un completo rediseño, pasando a adoptar un estilo más claro y colorido,
+        e incorporando por primera vez las capturas de pantalla de aplicaciones.
+        Donut, además, fue la primera versión compatible con sistemas de texto a voz, permitiendo así a las aplicaciones reproducir sonido basado en el texto escrito. También fue la primera vez que Android permitiría a
+        los usuarios observar un informe sobre el estado de la batería y ver qué aplicaciones y componentes del sistema estaban consumiendo más energía.
+    </string>
+
+    <string name="descripcionEclair">Con el primer gran salto de numeración de Android, también llegó un importante rediseño. Éclair fue el nombre elegido por Google para dar nombre a Android 2.0, y uno de los primeros
+        teléfonos en integrar la nueva edición del sistema operativo fue el Motorola Droid, todo un clásico de la historia de la plataforma móvil de Google.
+        Entre otras cosas, Android 2.0 introdujo una renovada pantalla de bloqueo, con panel rotatorio que emulaba el dial de los antiguos teléfonos analógicos. Para desbloquear el terminal, habría que deslizar desde
+        el centro del panel hacia abajo, mientras que deslizando a izquierda o derecha se silenciaría el terminal o se abriría la app de teléfono. Cabe destacar que Google prácticamente se vio obligada a ingeniar este
+        sistema, dado que Apple había patentado el famoso Deslizar para desbloquear. Sin embargo, con Android 2.1 se volvería a modificar este aspecto de la interfaz, adoptando un formato algo menos confuso de cara al
+        usuario.
+        Debido al gran salto de resolución que supuso el Motorola Droid –854×480 píxeles en lugar de los 320×480 del Google G1–, Google ser vio obligada a redibujar casi todos los elementos de la interfaz, aprovechando
+        así para cambiar el formato de la pantalla principal del launcher, eliminando el reloj analógico, e introduciendo una barra de búsqueda de Google en la parte superior, que desde entonces permanece intacta en la
+        pantalla de inicio de Android.
+        Pero quizá el añadido clave de Android 2.0 fue la navegación GPS en Google Maps. Al fin, los usuarios podían depender de sus smartphones a la hora de emprender viajes, recibiendo indicaciones para llegar a sitios,
+        y todo de forma totalmente gratuita. Para poner en perspectiva el impacto que este añadido tuvo en la industria, basta con comentar el hecho de que TomTom, una de las mayores compañías especializadas en la creación
+        de dispositivos GPS, llegó a caer hasta un 40% en bolsa durante la semana adel lanzamiento de Android 2.0.
+        Pero aún hay más, mucho más. Android Éclair está considerada como una de las actualizaciones más grandes de la historia, y no es para menos. En esta edición debutaron características como el brillo automático,
+        diferentes escenas en la app de cámara nativa o una aplicación de Facebook preinstalada –que gracias a Dios Google decidió eliminar más adelante–. Sin embargo, Google se había guardado una sorpresa para más tarde.
+        En enero de 2010 llegó el día que se daba comienzo a la familia de dispositivos Nexus, con un teléfono bajo el nombre Nexus One, fabricado de nuevo por HTC. El principal objetivo de esta saga era el de ofrecer una
+        experiencia pura con el sistema operativo y los servicios de Google, sin todos los añadidos que las operadoras solían incluir en aquella época.
+        Junto al Nexus One, se introdujo Android 2.1, una revisión de Éclair que incorporaba novedades que en poco tiempo se convertirían en esenciales, como los fondos de pantalla animados una función totalmente única que
+        ni siquiera el iPhone incluía, o un nuevo cajón de aplicaciones que ahora ocupaba la pantalla en su totalidad al ser desplegado, y cuyo fondo pasaba a ser totalmente negro.
+        Google también le cogió el gusto a eso de rediseñar aplicaciones y añadir animaciones en toda la interfaz. En Android 2.1 las aplicaciones de galería, noticias y tiempo, e incluso los widgets preinstalados,
+        pasaron a tener una nueva apariencia mucho más moderna.
+        Y sí, aún quedaba un añadido más que Google se reservó para la actualización denominada como Android 2,1 Update 1. Se trataba del sistema pinch-to-zoom, que permitía ampliar o reducir el tamaño de imágenes,
+        mapas o páginas web pellizcando sobre la pantalla con dos dedos. Como era de esperar, esto acabó por dar comienzo a la guerra entre Google y Apple, siendo los de Cupertino los que comenzaron a demandar a diestro
+        y siniestro a todo aquel fabricante que utilizase Android en sus teléfonos. Pero aún no tenían ni idea sobre lo que se les venía encima en los años siguientes.
+    </string>
+
+    <string name="descripcionFroyo">En mayo de 2010 existían cada vez más smartphones con Android, y Froyo fue la versión encargada de marcar el inicio de una nueva era para el sistema operativo, mejorando notablemente
+        el rendimiento gracias al añadido del compilador Dalvik JIT, que convertía en código de bytes de java en lenguaje nativo en tiempo real.
+        Aunque esa fue la novedad más importante de Android 2.2 también aparecieron novedades como un dock de aplicaciones en la pantalla de inicio, con dos iconos laterales para ejecutar el navegador y la app de teléfono
+        –que no eran personalizables–, y uno central destinado a abrir el cajón de apps.
+        Otras mejoras menores fueron la posibilidad de controlar las descargas en Android Market, gracias a un botón de actualizar todas las apps o habilitar las actualizaciones automáticas, así como la llegada de Adob
+        Flash Player a Android, ofreciendo así una experiencia multimedia mucho más completa a la hora de navegar. Finalmente, se introdujo el soporte para mover aplicaciones a las tarjetas microSD, algo más que necesario
+        en una época en la que 1 GB de almacenamiento interno parecía demasiado.
+        Pero por encima de todo lo anterior, se encontraba el control por voz. Llegó en el mes de agosto a Android, y permitiría controlar el sistema a través de comandos de voz de los usuarios, que los servidores de
+        Google interpretaban en apenas unos segundos y los enviaban de vuelta al teléfono para realizar la acción correspondiente. A pesar de ser un proyecto embrionario, la tecnología fue perfeccionándose con el paso
+        de los meses, llegando a ser uno de los sistemas de reconocimiento de voz más avanzados de la época.
+    </string>
+
+    <string name="descripcionGingerBread">Pero el mayor rediseño de Android hasta la fecha se hizo esperar hasta diciembre de 2010, cuando Google liberó la versión 2.3 de Android bautizada como Gingerbread. Los colores
+        grises y blancos desaparecían para dar cabida a tonos más oscuros, y al verde intenso como color de acento que inundaba toda la interfaz del sistema. En definitiva, era un diseño mucho más moderno, que al fin podía
+        competir a nivel estético con iOS.
+        Fue entonces, aprovechando la llegada de Gingerbread, cuando Google decidió renovar su familia de smartphones Nexus, y gracias a una colaboración con Samsung nació el Nexus S, la segunda edición de la saga de
+        dispositivos de Google, que además de dar un salto importante a nivel de tamaño, especificaciones y apartado multimedia, fue el primer Nexus en contar con conectividad NFC.
+        En esta edición, uno de los componentes de la interfaz que más cambió fue el panel de notificaciones, pasando a tener un fondo oscuro para dar más importancia a los avisos en forma de tarjetas. El color verde
+        también inundó los iconos de la barra de estado, y por primera vez se introdujo el efecto overscroll al llegar al final de una lista o menú deslizable.
+        Por otro lado, Gingerbread supuso un gigantesco paso hacia adelante en el terreno de los juegos para móvil, pues gracias a las nuevas APIs los desarrolladores podrían acceder al audio, controles, gráficos
+        y almacenamiento del sistema.
+        Finalmente, cabe destacar que, a día de hoy, en pleno 2018, Android 2.3 Gingerbread es la versión más antigua que aún aparece en los datos de distribución de Android, con un 0,3% de cuota a nivel mundial
+        en el mes de abril.
+    </string>
+
+    <string name="descripcionHoneyComb">La versión 3.0 de Android fue la primera –y la única– en ser exclusiva de tablets. Honeycomb vio la luz en febrero de 2011, y se trataba de la primera edición de Android creada
+        con Matías Duarte como líder de diseño y experiencia de usuario en el equipo de Android. Y lo cierto es que se notaba, y mucho.
+        Android dio un gigantesco salto en términos de diseño, adoptando las líneas que pasaron a denominarse Holo, y que darían vida a la interfaz de Android durante los próximos años. Dado que se trataba de una
+        edición pensada específicamente para tablets, ningún smartphone recibió jamás la actualización a Android 3.0, lo cual permitió a Google centrarse en mejorar la experiencia en los dispositivos de gran tamaño.
+        La interfaz al completo abandonaba el color verde de acento, para dar paso a diferentes tonos de azul brillante, que contrastaban con el negro de los menús del sistema y el fondo de las aplicaciones. Incluso
+        los widgets pasaron a ser de color azul, y la pantalla de bloqueo volvió a cambiar, obteniendo un formato más minimalista. Fue entonces, cuando Google y Motorola estaban preparados para lanzar la primera tablet
+        con Honeycomb en su interior.
+        Bajo el nombre de Motorola Xoom, llegaba una tablet de 10 pulgadas con pantalla de 16:9, cuyas especificaciones se situaban en lo más alto de la época con 1 GB de RAM, procesador Nvidia Tegra 2 y, sorprendentemente,
+        ningún tipo de botón en su parte frontal.
+        Fue la carencia de botones lo que llevó a Google a incorporar una barra de navegación virtual en pantalla, que permitiría a los fabricantes crear dispositivos con nuevos formatos, delegando los controles en
+        una botonera virtual que incorporaría los botones de menú, home y atrás.
+        Gracias al formato de las tablets, con más espacio de pantalla disponible, Google quiso potenciar la multitarea a base de un nuevo menú de aplicaciones recientes, que mostraba una miniatura de cada aplicación
+        y su contenido, en lugar de mostrar únicamente el icono como en la versión de Android para móviles. Sin embargo, se trataba de un sistema tan prematuro, que el usuario solo podía ver las últimas siete apps abiertas,
+        sin posibilidad de hacer scroll para observar las anteriores.
+        Esta fue la primera vez, además, que se introdujo un panel de ajustes rápidos, accesible desde la barra del sistema.
+    </string>
+
+    <string name="descripcionIceCream">En octubre de 2011, el diseño Holo que anteriormente vimos en Honeycomb finalmente aterriza en una versión de Android compatible tanto con smartphones como con tablets.
+        También se adoptaron otros rasgos de Honeycomb, como la pantalla de bloqueo, el panel de ajustes rápidos disponible en la barra de notificaciones, y la barra de navegación virtual.
+        El primer teléfono en incorporar esta versión fue, a su vez, el tercer smartphone de la familia Nexus de Google. Volvía a estar fabricado por Samsung, y en esta ocasión era más evidente la influencia de
+        la compañía surcoreana: nació el Samsung Galaxy Nexus.
+        El terminal compartía varios detalles con el Samsung Galaxy S2, como su cuerpo de plástico con una parte trasera texturizada. Además, contaba con un apartado técnico superior al de la mayoría de smartphones
+        del mercado, debido a que Android 4.0 requería de una mayor potencia que las versiones anteriores. Por otro lado, el dispositivo, aunque fue bien recibido por las críticas, en un principio fue criticado por
+        su enorme pantalla de 4,65 pulgadas, para algunos demasiado grande. Gracias a la existencia de botones virtuales en Android, este sería el primer smartphone en prescindir de la botonera física.
+        Muchas de las aplicaciones del sistema, como el Android Market, YouTube, Mensajes e incluso el launcher, fueron rediseñados con una estética más futurista, siguiendo las líneas Holo, y también lo hicieron sus iconos.
+        Además, el cajón de aplicaciones ahora estaba dividido en dos pestañas, de apps y widgets, y el panel de notificaciones pasaba a tener un fondo transparente.
+        También apareció el menú de aplicaciones recientes que habíamos visto en Android 3.0, y el launcher ahora permitía añadir carpetas de aplicaciones, o redimensionar los widgets para ahorrar espacio u ocupar más.
+        Finalmente, Android 4.0 Ice Cream Sandwich fue la primera versión con soporte para Android Beam, un sistema que permitía compartir contenido entre dos dispositivos Android juntando sus espaldas,
+        gracias a la conexión NFC.
+        Pero antes de la llegada de una nueva versión, Google decidió, el 6 de marzo de 2012, presentar un nuevo enfoque para sus servicios de contenido multimedia, que pasaban a formar parte de la familia Google Play.
+        De este modo, Android Market pasó a ser Google Play Store, Google Books pasó a llamarse Google Play Books, Google Music ahora sería Google Play Music, y aparecía un servicio de series y películas denominado
+        Google Play Movies y TV. De momento, solo los nombres de las apps fueron modificados, y el diseño se mantuvo intacto hasta varios meses más tarde.
+    </string>
+
+    <string name="descripcionJellyBean">Una vez asentadas las bases del nuevo diseño, pasaron seis meses hasta que Google decidió liberar la nueva versión del sistema, bautizada como Jelly Bean. El añadido más
+        importante fue uno totalmente invisible de cara al usuario, que Google denominaba Project Butter. Consistía en un proyecto a través del cual los ingenieros del equipo de Android lograron que las animaciones
+        del sistema se mostrasen a 30 fps, intentando así ponerse a la altura de iOS en cuanto a sensación de fluidez general.
+        La interfaz del sistema no cambió demasiado con respecto a ICS, aunque sí se modificó –otra vez– el panel de notificaciones, que ahora mostraba un reloj digital de gran tamaño en la parte superior, y por
+        primera vez las notificaciones eran ampliables para observar su contenido sin necesidad de acceder a la app en cuestión. además de incluir acciones rápidas.
+        También apareció, por primera vez, la posibilidad de añadir diferentes cuentas de usuario a un mismo dispositivo. Este sistema estaba principalmente destinado a ser usado en tablets, y permitía a cada
+        usuario tener su propio espacio en el terminal, con sus aplicaciones, configuración y personalización guardada.
+        Pero el añadido más importante de Jelly Bean no fue otro que Google Now. A pesar de resultar algo confuso en un principio, más tarde se transformó en una pieza esencial del ecosistema Android. Según Google,
+        Now era el futuro de Google Search, y consistía en un panel repleto de tarjetas con información relevante para los usuarios, que irían apareciendo a lo largo del día, antes incluso de que el usuario necesitase
+        consultar esa información.
+        Por otro lado, en Android 4.1 se implementaron los servicios de Google Play, permitiendo así a Google actualizar las características esenciales del sistema –como el propio Google Now– sin necesidad de
+        liberar actualizaciones completas del sistema.
+        Solo unos cuantos meses más tarde, llegó Android 4.2, una revisión de Jelly Bean que, si bien no introdujo demasiadas novedades, sirvió como un escenario para dar la bienvenida a dos nuevos dispositivos Nexus:
+        el LG Nexus 4 y la Nexus 10 firmada por Samsung.
+        Android 4.2 venía incorporado en ambos dispositivos, y mientras que el Nexus 4 era un teléfono de fantástico diseño, altas prestaciones y precio contenido –solo 300 dólares–, con procesador Snapdragon S4 Pro,
+        pantalla de 4,7 pulgadas HD LCD, y 2 GB de memoria RAM. Por su parte, la Nexus 10 fue la primera tablet Nexus de 10 pulgadas, con una gran resolución de 2.560 x 1.600 píxeles y especificaciones de gama alta para
+        competir directamente con el iPad 4 de Apple, presentado en el mismo mes que la Nexus 10. Ambos dispositivos, además, se vendieron directamente en Google Play, dentro de una sección específica
+        denominada “Dispositivos”.
+        En cuanto a los cambios de Android 4.2, nos quedamos con la posibilidad de añadir widgets a la pantalla de bloqueo, y una nueva interfaz destinada a tablets.
+    </string>
+
+    <string name="descripcionKitKat">El mismo día de Halloween de 2013, Google presentó una nueva versión de Android, a la que dio nombre con el famoso dulce KitKat de Nestlé. Esta fue la primera colaboración de
+        Google con una compañía alimentaria para dar nombre a una versión de su sistema operativo, dando comienzo además a una gran campaña de publicidad a través de la creación de KitKats con forma de androides,
+        y sorteos de tablets Nexus 7 alrededor de todo el mundo.
+        Pero el lanzamiento de Android 4.4 quedó eclipsado por la llegada del que, para muchos, es el mejor Android de la historia: el LG Nexus 5. Fue el segundo teléfono Nexus creado en colaboración por LG,
+        y mantenía la esencia del anterior Nexus 4, a la vez que daba un gran salto a nivel de especificaciones y tamaño –era el primer Nexus con pantalla de 5 pulgadas Full HD–.
+        Quizá el añadido más importante de Android KitKat, o al menos del que más orgullosos estaban en Google, era el sistema denominado Proyect Svelte, que se transformaba en una importante reducción en el uso
+        de memoria RAM, gracias a diferentes optimizaciones que permitían al sistema operativo ejecutarse con una cantidad de memoria de solo 340 MB. Esto sirvió como lanzadera para los smartphones de gama media
+        y gama baja, que al fin comenzaban a cobrar relevancia.
+        A nivel visual, KitKat se olvidaba de los acentos azules de anteriores versiones del sistema, para dar paso al blanco, dando así un nuevo enfoque al diseño Holo. Por primera vez, además, Google Now pasaba
+        a estar integrado en el launcher, disponible para el usuario a través de un simple deslizamiento hacia la derecha de la pantalla principal. Las transparencias se apoderaron de la interfaz, y apareció el modo
+        inmersivo que ocultaba las barras del sistema cuando fuera necesario de forma automática.
+        Pero quizá la novedad más llamativa fue el comando de voz “Ok Google”, que permitiría ejecutar la búsqueda de Google sin necesidad de tocar el teléfono. A nivel de aplicaciones, se introdujo Google Fotos
+        por primera vez, aunque en forma de una extensión de la red social Google Plus, y la app de teléfono se hizo inteligente, capaz de mostrar los contactos más relevantes para el usuario, o la posibilidad de
+        buscar lugares cercanos y sus números de teléfono de contacto.
+    </string>
+
+    <string name="descripcionLollipop">Creo que todos estamos de acuerdo en que Android 5.0 Lollipop, presentada en Noviembre de 2014, fue la versión de Android más importante en toda la historia del sistema operativo.
+        En primer lugar, se creó por primera vez el programa Developer Preview, que permitía a desarrolladores y entusiastas probar las últimas novedades antes que nadie, dejando en secreto detalles como el número de
+        la versión o el nombre definitivo. Así nació “Android L”, y junto a ella, las líneas de diseño Material Design.
+        Material Design fue el punto de inflexión más grande de la historia de Android, y un añadido histórico para todo el ecosistema de Google. Fue anunciado por el propio Matías Duarte en el Google I/O de 2014,
+        y lo anunció como un nuevo estilo de diseño tanto para Android, como para el resto de productos y servicios de los de Mountain View. La idea principal era que el sistema operativo, y las aplicaciones,
+        webs y diferentes plataformas, tuviesen una misma apariencia, cuyas interfaces estuvieran basadas en elementos físicos metafóricos como la tinta y el papel, incluyendo sombras, texturas y elevaciones
+        virtuales sobre un lienzo tridimensional.
+        Los mayores cambios que trajo Material Design a la interfaz de Android fueron el nuevo panel de ajustes rápidos, una barra de navegación más minimalista, animaciones a 60 fps creadas desde cero,
+        y un menú de aplicaciones recientes con formato tridimensional y en forma de lista vertical. Además, cada una de las aplicaciones ahora contaba con un color principal que ocupaba las cabeceras de
+        cada app al completo.
+        Más allá de la aplicación de Material Design a la interfaz del sistema al completo, así como a las diferentes aplicaciones de Google, Android 5.0 Lollipop introdujo la máquina virtual ART, que más
+        tarde pasaría a reemplazar a Dalvik y así dar un importante salto a nivel de rendimiento en el sistema operativo. ART estaba escrito desde cero, y estaba pensado para mejorar la velocidad de apertura
+        de aplicaciones y optimizar el consumo de memoria en hardware moderno.
+        Lollipop también tenía el objetivo de mejorar la duración de la batería en los dispositivos, gracias al sistema Project Volta. De este modo, se comenzó ofreciendo herramientas de rastreo de consumo de energía,
+        para ver qué actividades, tareas y servicios estaban consumiendo más batería.
+        Un año más, las notificaciones fueron rediseñadas, permitiendo a los usuarios interactuar con ellas desde la pantalla de bloqueo en forma de tarjetas, y realizar acciones rápidas como contestar mensajes,
+        posponer tareas o recordatorios y mucho más. Por otro lado, los usuarios obtuvieron un mayor control sobre las notificaciones, gracias a los modos de “Prioridad”, “Sonido para todo” y “Completamente silencioso”.
+    </string>
+
+    <string name="descripcionMarshmallow">Aterrizamos de lleno en octubre de 2015, mes en el que Google, con su logo recién cambiado tras dieciséis años usando la misma tipografía, presenta la versión 6.0 de
+        Android con el nombre de Marhmallow. Dado que Material Design había sido presentado hace solo un año, apenas encontramos cambios de diseño más allá de un panel Google Now más claro y limpio. Uno de los
+        cambios más importantes fue el formato del cajón de aplicaciones, que regresaba a la lista con scroll vertical original de las versiones más tempranas del sistema, acompañada de un selector rápido para
+        encontrar las aplicaciones de forma más sencilla.
+        Un importante añadido de esta versión fue Now on Tap, un sistema que permitía acceder, a través de una pulsación larga sobre el botón home, a un menú que identificaba el contenido que aparecía sobre la
+        pantalla y su contexto, para mostrar información relevante al usuario. Aunque la idea era buena, lo cierto es que al materializarse muchos usuarios vieron que la utilidad de Now on Tap distaba de lo que
+        Google nos había mostrado en un principio.
+        La gran novedad de Marshmallow fue el sistema de permisos granular, que permitía al usuario observar y activar los diferentes permisos requeridos por las aplicaciones de forma manual. De este modo, en lugar
+        de tener que acceder a los ajustes de cada aplicación para desactivar aquellos permisos sospechosos, cuando el usuario ejecuta una app, siempre que esta necesita un permiso concreto, aparecerá un popup sobre
+        la pantalla desde el que el usuario puede aceptar o rechazar la obtención de permiso por parte de la aplicación.
+        Bajo el capó, Google continuaba en su particular lucha contra las aplicaciones devoradoras de batería, e introdujo el sistema DOZE. Este modo entraba en acción siempre que el dispositivo se encontraba estático
+        en un lugar, desconectado y con la pantalla apagada, para habilitar un modo de bajo rendimiento que restringía los permisos de fondo, y pasado un tiempo, se deshabilitaría el acceso a la red, ignorando así los
+        wake locks de las aplicaciones.
+        Pero una de las novedades más queridas por los usuarios fue el denominado como Adoptable Storage, que transformaba la tarjeta sd externa en una ampliación de la memoria interna, en la cual poder instalar
+        aplicaciones o almacenar datos de forma sencilla.
+        A nivel de notificaciones, aparecieron por primera vez los avisos en formato Peek, que consistían en alertas que se mostraban en forma de carteles sobre la parte superior de la pantalla, aunque al contrario
+        que en Lollipop, solo serían eligibles para usar este tipo de avisos aquellas notificaciones de alta prioridad.
+        En Android 6 también cambió el formato de control de volumen, y aparecieron por primera vez las actualizaciones de seguridad mensuales. Google también quiso allanar el terreno para la llegada de smartphones
+        modernos con nuevos sistemas de seguridad basados en biometría, gracias a la inclusión de Fingerprint API, que implantaba la compatibilidad con lectores de huellas dactilares.
+    </string>
+
+    <string name="descripcionNougat">En el año 2016 llegó Android 7.0 Nougat, y junto a esta versión, el futuro de Google como firma de telefonía gracias a la aparición de los Pixel, los primeros teléfonos diseñados
+        por la propia compañía, que llegaban para tomar el relevo de la familia Nexus.
+        Con Android 7, Google continuaba perfeccionando Material Design, a la vez que se incorporaban nuevas funcionalidades en el sistema como la ejecución de dos aplicaciones en pantalla partida, a través de una
+        pulsación larga sobre el botón de multitarea. También se añadía la posibilidad de contestar a los mensajes desde las notificaciones, soporte para la API Vulkan para mejorar la experiencia con videojuegos,
+        o mejoras en el modo de ahorro de energía DOZE, que ahora comenzaría a trabajar en cuanto se apagase la pantalla del dispositivo.
+        El launcher nativo del sistema también sufrió cambios importantes, como la aparición de accesos directos rápidos –en Android 7.1– que permitían acceder a funciones rápidas de las aplicaciones a través de
+        una pulsación rápida desde el icono, un dock de aplicaciones con fondo semitransparente, o una nueva disposición que hacía desaparecer la barra de Google, para dar paso a una pequeña cápsula ubicada en la
+        parte superior izquierda.
+        Bajo el capó de Nougat, se introdujo uno de los cambios más importantes de la historia de Android, que mejoraba la forma en la que los dispositivos recibían actualizaciones OTA. Realmente era una función
+        prestada de Chrome OS, que llevaba el nombre de Seamless Updates y consistía en la división del almacenamiento del sistema en dos particiones diferentes.
+        La primera estaría orientada al almacenamiento de los datos del sistema e información del usuario, mientras que la secundaria estaría deshabitada por defecto, y solo sería usada a la hora de recibir una
+        actualización. De este modo, la nueva versión del sistema se instala en la segunda partición mientras que el usuario puede seguir utilizando la principal. Así se redujo considerablemente el tiempo que el
+        teléfono permanece inactivo durante el proceso de actualización a una nueva versión de Android.
+    </string>
+
+    <string name="descripcionOreo">Android 8.0 es el presente de Android para casi un 15% de los usuarios de todo el mundo. Presentada en agosto de 2017, solo unos meses antes de que la segunda generación de teléfonos
+        Google Pixel viese la luz, fue la segunda versión de la historia en la que Google se aliaba con una marca de la industria alimentaria como Nabisco, para hacer que la última versión tuviese nombre de otro dulce
+        con una popularidad equiparable a la de KitKat: Oreo.
+        Uno de los aspectos en los que se enfocaba Android Oreo en el momento de su lanzamiento era la gestión de las notificaciones, mejorando el orden de estas gracias a distintos niveles de prioridad, y ofreciendo
+        al usuario la posibilidad de posponer avisos o elegir manualmente qué tipo de notificaciones de cada aplicación quieren recibir, gracias a los canales de notificaciones.
+        También aparecieron nuevos formatos de aviso como los Notification Dots o Notification Badges, dos sistemas que permitían saber si teníamos algún aviso directamente mirando al icono de la aplicación, o ver su
+        contenido a través de una pulsación larga sobre este.
+        Android 8 también introdujo el modo Picture in Picture, que permite mostrar diferentes tipos de contenido –vídeos, mapas o videollamadas– en una pequeña ventana flotante, mientras el usuario sigue utilizando
+        otras aplicaciones. El autorrelleno de texto nativo también hizo acto de presencia, acompañando a la selección de texto inteligente y un nuevo pack de emojis que sustituye a los famosos blobs.
+        Pero el añadido más importante, no solo de Android 8, sino del sistema operativo en toda su historia, se encuentra bajo el capó de esta última versión del sistema. Su nombre es Project Treble, y es el paso más
+        grande que Google ha dado en contra de la fragmentación que Android arrastra desde sus inicios.
+        Más que un añadido, Project Treble es un cambio de estructura. Su objetivo es el de modularizar el propio sistema operativo, separando los drivers y el resto de código relacionado con el hardware de los
+        dispositivos —vendor–, del propio Android. Así, se consigue que las actualizaciones del sistema sean más sencillas, rápidas y asequibles de desarrollar y liberar por parte de los diferentes fabricantes
+        de smartphones.
+        Más tarde, con Android 8.1, la mayoría de novedades se reducían a pequeños detalles de la interfaz, como el modo claro/oscuro dependiendo del fondo de pantalla, un panel de ajustes rápidos semitransparente
+        o un menú de apagado flotante. Sin embargo, la principal novedad de esta versión incremental fue la llegada de la API para redes neuronales, que permitía a los desarrolladores implementar sistemas de IA y
+        Machine Learning en sus apps.
+        Pese a las medidas llevadas a cabo por parte de Google con el fin de acelerar la acogida de Android Oreo, la versión solo llegó a alcanzar la cuota del 21,5% en los dispositivos de todo el mundo un año
+        después de su lanzamiento.
+    </string>
+
+    <string name="descripcionPie">En marzo de 2018, Google lanzaba la primera versión preliminar para desarrolladores de Android P. Mes tras mes, con la llegada de las nuevas betas, nos fuimos dando cuenta de lo
+        grande que iba a ser esta actualización, y todo lo que iba a suponer para la plataforma Android al completo.
+        A principios de agosto, Google nos sorprendió presentando Android 9.0 Pie, desvelando además el nombre del dulce que da nombre a esta novena gran actualización del sistema, una de las más importantes de la
+        historia. Para empezar, esta versión es la encargada de implantar una renovada filosofía de diseño que ha sido bautizada como Google Material Theme, y que promete aportar una mayor coherencia a toda la interfaz,
+        con fondos más claros y tarjetas cuyas esquinas son más redondeadas, además de adoptar la tipografía Product Sans en aún más componentes de la interfaz. Esta guía de estilo, además, no se basa en reglas estrictas,
+        sino que ofrece a los fabricantes una mayor flexibilidad a la hora de desarrollar y diseñar sus apps.
+        También es la primera edición de Android que introduce un nuevo tipo de navegación por gestos que ya hemos podido probar a fondo y que nos hace pensar que los botones han quedado como un sistema prácticamente
+        obsoleto.
+        Bajo el capó, encontramos añadidos interesantes como un sistema de posicionamiento en interiores a través de la tecnología Wi-Fi RTT, soporte nativo para los codecs HDR BP9 y HEIF, restricciones de acceso al
+        micrófono, cámara y sensores a las aplicaciones en segundo plano, compatibilidad con nuevos formatos de pantalla –véase, pantallas con “notch”– o mejoras en el rendimiento gracias a ART y de ahorro de energía a
+        través de DOZE. También se ha incorporado una API que da soporte nativo a sistemas fotográficos formados por dos cámaras, lo cual sugiere la posibilidad de que los futuros Pixel 3 pudieran ser los primeros
+        dispositivos made by Google en contar con dos cámaras en su parte trasera.
+        Otras novedades que aparecen en Android Pie son un nuevo panel de ajustes rápidos, respuestas rápidas a mensajes desde las notificaciones, el primer editor de capturas de pantalla nativo o un control de volumen
+        mejorado. También se introducen una colección de novedades basadas en inteligencia artificial, como el brillo adaptativo o sistemas de ahorro de batería inteligentes y muchas más características nuevas.
+        Y para demostrar que Project Treble, el cambio de arquitectura introducido en Android 8, realmente aporta ventajas de cara al usuario, Android 9.0 Pie, además de haber llegado a los teléfonos Pixel, era
+        compatible desde el lanzamiento de su primera beta pública con otros siete teléfonos diferentes, incluyendo el Essential Phone que es el primer smartphone “no Google” en recibir la nueva actualización del sistema,
+        El resto de modelos de fabricantes que han colaborado con Google, así como aquellos bajo la iniciativa Android One, recibirán la OTA de Android 9 Pie antes de que finalice el otoño de 2018.
+        La presentación de Android 9 también sirvió para introducir una nueva edición de Android Go, la versión del sistema operativo dedicada a smartphones de recursos limitados. Esta nueva versión tomaba el nombre
+        de Android 9 Pie Go Edition.
+    </string>
+
+    <string name="descripcionAndroid10">Llegó marzo de 2019, y para no romper la tradición, Google lanzó la primera beta de Android Q. Por primera vez, los de Mountain View decidieron abandonar la denominación
+        “Developer Preview” para la edición preliminar de la nueva versión del sistema operativo, y pasar a ofrecer la actualización a través del programa Android Beta, dando a los poseedores de las tres generaciones
+        de la familia Pixel la posibilidad de probar las últimas novedades. De esta forma, los Pixel de 2016 son los primeros teléfonos de Google en recibir tres grandes actualizaciones de la plataforma.
+        Esta nueva entrega del sistema operativo trae consigo novedades y cambios importantes, que se centran principalmente en mejorar la privacidad y la seguridad de los usuarios otorgando un mayor control
+        sobre los permisos que obtienen las aplicaciones, como el de ubicación o el acceso al portapapeles del sistema. También llegan características esperadas como el tema oscuro –que, eso sí, no fue funcional
+        hasta la tercera beta–, más herramientas de personalización e incluso las primeras pistas del modo de escritorio.
+        Android Q tiene seis versiones beta diferentes que se van desplegando desde marzo hasta el tercer trimestre del año. Será en agosto de 2019 cuando Google libere la versión definitiva de la nueva edición
+        del sistema operativo a todos sus dispositivos de la familia Pixel.
+        La segunda beta de Android Q trajo consigo un mayor número de novedades de cara al usuario, y de entre todas destacaban las burbujas flotantes de notificaciones compatibles con todas las aplicaciones,
+        que aportan una nueva manera de interactuar con los avisos mientras se potencia el uso de la multitarea al permitir, entre otras cosas, responder mensajes mientras se usan otras aplicaciones. Google también
+        trabajaba en perfeccionar la navegación por gestos nativa de Android, con mejores que no llegaron hasta futuras ediciones.
+        No obstante, fue la tercera beta la encargada de introducir el grueso de las novedades de la edición definitiva de Android Q. Entre las más interesantes, se encontraba el esperado tema oscuro, ahora sí
+        disponible para ser activado desde los ajustes del sistema, y con la posibilidad de forzar la nueva apariencia en cualquier aplicación instalada en el dispositivo. También se renovaba por completo el sistema
+        de gestos, para pasar a ser más intuitivo y fácil de usar –y, para qué engañarnos, mucho más parecido al de los iPhone X–.
+        Android Q beta 3 introdujo también mejoras en términos de accesibilidad, como la generación automática de subtítulos en cualquier contenido en vídeo, independientemente de la aplicación en la que se reproduciese.
+        Con esta versión también llegaron mejoras en la estructura del sistema operativo, con el objetivo de seguir luchando en contra de la fragmentación. La más importante fue Mainline, que se basa en la misma premisa
+        de modularizar la plataforma en la que ya se basaba Treble, y que permitirá, entre otras muchas cosas, enviar actualizaciones de seguridad a los teléfonos a través de Google Play Store.
+        Treble también demostraba su importancia con esta versión, pues un total de 17 dispositivos, sin contar los propios Pixel de Google, eran compatibles con Android 10 Q a partir de su tercera versión beta.
+        Pero la mayor sorpresa de esta versión vino solo unos días antes de la llegada de la edición definitiva: Google anunció que Android Q sería Android 10, y que a partir de ese momento las futuras versiones de
+        Android dejarían de tener nombres de postres y dulces, marcando así el fin de una era que duró una década.
+        Junto a este cambio de estrategia, Google introdujo también importantes cambios en la marca Android, que iban desde una nueva tipografía hasta un nuevo logo, con un color verde muy diferente al que estábamos
+        acostumbrados. Al parecer, el objetivo era hacer de Android una marca más universal. Finalmente, El despliegue global de la actualización daría comienzo a partir del día 3 de septiembre de 2019, y solo dos semanas
+        después ya eran cerca de 100 los móviles con la actualización confirmada.
+    </string>
+</resources>
+
+
+
